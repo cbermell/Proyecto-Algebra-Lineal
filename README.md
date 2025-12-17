@@ -1,0 +1,2 @@
+# Gr-ficos-por-Computadora-2D-y-Transformaciones-Lineales-
+El objetivo de este proyecto es aplicar los conceptos teóricos de Transformaciones Lineales  (rotación, escalamiento, traslación, y corte) utilizando la notación matricial y la librería  NumPy de Python. Los estudiantes deben demostrar cómo una matriz puede transformar un  objeto geométrico en un plano 2D, visualizando el proceso con Matplotlib. 
